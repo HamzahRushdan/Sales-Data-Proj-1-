@@ -1,7 +1,7 @@
 # Sales-Data-Proj-1-
 This project entails leveraging SQL Server Management Studio for the analysis of sales data, employing RFM analysis techniques to gain insights into the vehicle sales industry. Subsequently, Tableau is utilized for visualizations to facilitate a comprehensive understanding of the data.
 
-Before commencing the project, I initiated a connection to an existing database and imported the pertinent flat file that serves as the basis for my SQL queries. The flat file encompasses comprehensive auto sales data.
+Before commencing the project, I initiated a connection to an existing database and imported the pertinent flat file that serves as the basis for my SQL queries. The flat file encompasses comprehensive vehicle sales data.
 
 Following the successful population of the sales data into the designated database, I am now able to manipulate the dataset to extract meaningful information.
 
