@@ -22,3 +22,4 @@ An integral aspect of the project involves determining which two products are fr
 
 Project Point 6:
 Finally, I generate compelling visualizations using Tableau, which effectively communicate the insights derived from the data analysis, offering a visually intuitive representation of the key findings.
+<https://public.tableau.com/views/SQLSalesDataProject/SalesDash2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link>
